@@ -1,0 +1,4 @@
+build
+hs*.log
+.idea
+.gradle
